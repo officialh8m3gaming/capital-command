@@ -1,0 +1,23 @@
+{
+  "name": "Capital Command",
+  "short_name": "CapitalCommand",
+  "description": "Visual ledger calculation and personal cashflow management system.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030706",
+  "theme_color": "#064e3b",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

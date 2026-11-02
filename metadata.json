@@ -1,0 +1,6 @@
+{
+  "name": "Capital Command",
+  "description": "Capital Command - A comprehensive bill management and financial tracking application with executive ledger views, bi-weekly cycles, category organization, and payoff metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
